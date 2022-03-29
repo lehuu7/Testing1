@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="message_string">Welcome</string>
+    <string name="message_string2">Username</string>
+    <string name="message_string1">Password</string>
+    <string name="button_string2">Join or Login</string>
+    <string name="string">hint</string>
+    <string name="login_success">Đăng nhập thành công</string>
+    <string name="login_error">Tài khoản hoặc mật khẩu sai</string>
+    <string name="message_string3">Sooya</string>
+    <string name="login_error1">Mời bạn nhập đủ thông tin</string>
+    <string name="button_string3">Back</string>
+    <string name="message_string4">Kim Jisoo</string>
+    <string name="message_string5">Korean singer, actress, and presenter</string>
+    <string name="button_string4">Edit profile</string>
+    <string name="button_string6">Show my instagram</string>
+    <string name="button_string5">Show my facebook</string>
+    <string name="button">www.facebook.com/BLACKPINK.JISOO></string>
+    <string name="button1">www.instagram.com/sooyaaa__/></string>
+    <string name="button_string7">Eye Icon</string>
+    <string name="button_string8">Eye Icon1</string>
+
+</resources>
